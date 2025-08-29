@@ -592,7 +592,7 @@ export default function Portfolio() {
                                 <span className="font-bold">Nazmul Robin</span>
                             </div>
                             <p className="text-sm text-muted-foreground">
-                                © 2024 Nazmul Robin. Full Stack Developer & WordPress Expert.
+                                © 2025 Nazmul Robin. Full Stack Developer & WordPress Expert.
                             </p>
                         </div>
                     </div>
